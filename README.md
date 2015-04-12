@@ -1,2 +1,2 @@
-# ohtuA
-viikko 4
+# ohtuB
+viikko4
